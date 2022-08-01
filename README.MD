@@ -3,9 +3,10 @@
 # A repo to practice looping through arrays under different conditions.
 
 TODO
-1. Fork this repo to copy.
 
-1. Clone your branch to your PC locally.
+1. Switch to main branch to clone a clean copy.
+
+1. Set up clone on your PC locally.
 
 3. Open the local clone in VS-Code.
 
