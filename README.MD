@@ -4,7 +4,7 @@
 
 TODO
 
-1. Switch to main branch to clone a clean copy.
+1. Clone this clean branch.
 
 1. Set up clone on your PC locally.
 
